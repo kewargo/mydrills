@@ -1,3 +1,5 @@
+// jQuery Drills Kerry Wargo
+
 $(document).ready(function() {
 // #1 Use .css to change the background color of #bgColor
     
