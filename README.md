@@ -1,3 +1,4 @@
+<<<<<<< HEAD
     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
     '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
     |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
@@ -24,3 +25,9 @@ The Cloud9 IDE team
 
 Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
 To watch some training videos, visit http://www.youtube.com/user/c9ide
+=======
+mydrills
+========
+
+jquery drills
+>>>>>>> fd3f8a53eb1e2a934fd32fd3e217ff23a0b585e7
