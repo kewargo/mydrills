@@ -5,6 +5,16 @@ $(document).ready(function() {
     
     $('#bgColor').css('background-color', 'blue');
     
+// #1.a
+    var int = document.getElementById("int");
+        int.addEventListener("mouseover", function() {
+	    int.style.color = "red";
+    }, true);
+
+        int.addEventListener("mouseout", function() {
+	    int.style.color = "blue";
+    }, true);
+    
 // #2 Clone #cloneDiv with .clone and .append it to #cloneContainer
     
     var $clone = $('#cloneDiv').clone();
